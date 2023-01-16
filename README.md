@@ -1,1 +1,2 @@
 # odin-recipes
+I was dissapointed with how much I had to go back and look at previous Odin tutorials. It's going to take a while to get used to, but I firmly believe with each subsequent page I create I will get better and have to look at references less. The content on this webpage is erroneous, what matters was having the knowledge to put it together in the first place. 
